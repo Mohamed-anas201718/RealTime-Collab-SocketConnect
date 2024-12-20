@@ -1,0 +1,41 @@
+div.ABC
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color : #ff0000;
+}
+div.ABCD
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    font-family: Arial, sans-serif;
+    color: #000080;
+}
+div.button1
+{
+    
+    color: white;
+    
+    text-align: center;
+    font-size: 16px;
+    
+    cursor: pointer;
+    width: 50px; 
+    height: 50px;
+}
+
+    /*
+.section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: Arial, sans-serif;
+}
+    */
